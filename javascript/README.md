@@ -8,8 +8,6 @@ Samotného hada lze spustit souborem `run.cmd` nebo příkazem `npm run dev`
 
 Do adresáře přidejte konfigurační soubor `.env` obsahující údaje (např. pro hada týmu #8)
 ```
-ID = 8
-IP = "127.0.0.1"
 PORT = 6008
 NAME = "Had týmu #8"
 ```

@@ -1,5 +1,5 @@
-# identifikator a jmeno hada z konfiguracniho souboru config.py
-from config import ID, NAME
+# jmeno hada z konfiguracniho souboru config.py
+from config import NAME
 
 import random
 

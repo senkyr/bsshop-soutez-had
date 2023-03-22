@@ -4,14 +4,12 @@ Tento had vyžaduje pro svůj běh [Flask](https://flask.palletsprojects.com/) (
 
 Pro instalaci závislostí nejprve spusťte příkaz `python -m pip install Flask`
 
-Samotného hada lze spustit souborem `run.cmd` nebo příkazem `python main.py`
+Samotného hada lze spustit souborem `run.cmd` nebo z [Thonnyho](https://thonny.org/)
 
-Do konfiguračního soubor `config.py` vyplňte údaje (např. pro hada týmu #8)
+Do konfiguračního soubor `src/config.py` vyplňte údaje (např. pro hada týmu #8)
 ```
-ID = 8
-IP = "127.0.0.1"
 PORT = 6008
 NAME = "Had týmu #8"
 ```
 
-Samotného hada najdete v souboru `snake.py`, kde změníte tělo funkce `move`
+Samotného hada najdete v souboru `src/snake.py`, kde změníte tělo funkce `move`

@@ -1,5 +1,5 @@
-// identifikator a jmeno hada z konfiguracniho souboru .env
-const { id, name } = require('../conf');
+// jmeno hada z konfiguracniho souboru .env
+const { name } = require('../conf');
 // povolene smery pohybu hada
 const directions = ["Up", "Down", "Left", "Right"];
 
